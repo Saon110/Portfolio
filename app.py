@@ -97,7 +97,7 @@ elif page == "Profiles":
         "GitHub": "https://github.com/Saon110",
         "Twitter": "https://x.com/Saon_chishty",
         "Facebook": "https://www.facebook.com/sijonchisty",
-        "Portfolio": "https://yourwebsite.com",
+        "Portfolio": "https://sijon-chisty-saon.streamlit.app/",
     }
 
     for platform, link in profiles.items():
